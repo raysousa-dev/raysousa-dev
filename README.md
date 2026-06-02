@@ -6,10 +6,6 @@ Me chamo Rayane Sousa Ferreira, tenho 19 anos e sou de Brasília. Atualmente, es
 
 <p align="left">
 
-  <a href="https://github.com/raysousa-dev?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/raysousa-dev?style=for-the-badge&color=FF69B4&label=ESTRELAS" alt="Total de Estrelas">
-  </a>
-
   <a href="https://github.com/raysousa-dev?tab=followers">
     <img src="https://img.shields.io/github/followers/raysousa-dev?style=for-the-badge&color=FF69B4&label=SEGUIDORES" alt="Seguidores">
   </a>
