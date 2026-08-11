@@ -2,7 +2,7 @@
 
 **`UI/UX Designer e Product Designer`**
 
-Me chamo Rayane Sousa Ferreira, tenho 19 anos e sou de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniEuro. Sou apaixonada por design, marketing e tecnologia, gosto de compartilhar o meu trabalho no LinkedIn [rayanesousafer](https://www.linkedin.com/in/rayanesousafer/).
+Me chamo Rayane Sousa Ferreira, tenho 20 anos e sou de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniEuro. Sou apaixonada por design, marketing e tecnologia, gosto de compartilhar o meu trabalho no LinkedIn [rayanesousafer](https://www.linkedin.com/in/rayanesousafer/).
 
 ---
 
